@@ -6,7 +6,7 @@ import java.util.Random;
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;
 
-// Handles the wake-up challenges (math problem and click counter).
+// Handles the wake-up challenges (mat  h problem and click counter).
 
 public class ChallengePanel extends JPanel {
     private static final int REQUIRED_CLICKS = 25;
